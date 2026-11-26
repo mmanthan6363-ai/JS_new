@@ -5,23 +5,23 @@ let num4 = "Hello";
 let num5 = -45.678;
 
 let num6=Number(num2)
-// console.log(typeof num6)
-// console.log(num6)
+console.log(typeof num6)
+console.log(num6)
 
 
-// console.log(parseInt(num3))
-// console.log(parseFloat(num3))
-// console.log(Number(num4))
-// console.log(Number.isNaN(num4))
-// console.log(Number.isFinite(num1))
-// console.log(Number.isInteger(num1))
+console.log(parseInt(num3))
+console.log(parseFloat(num3))
+console.log(Number(num4))
+console.log(Number.isNaN(num4))
+console.log(Number.isFinite(num1))
+console.log(Number.isInteger(num1))
 
-// console.log(num1.toString())
-// console.log(num1.toFixed(2))
-// console.log(num1.toPrecision(5))
-// console.log(num1.toExponential(2))
-// console.log(isNaN(num1))
-// console.log(isFinite(num1))
+console.log(num1.toString())
+console.log(num1.toFixed(2))
+console.log(num1.toPrecision(5))
+console.log(num1.toExponential(2))
+console.log(isNaN(num1))
+console.log(isFinite(num1))
 
 let a = 25.7;
 let b = 4.3;

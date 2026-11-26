@@ -1,3 +1,9 @@
+let name="Manthan";
+let repo=50
+
+// console.log(name+repo+"Value")
+console.log(`My name is ${name.toLowerCase()} and repo id ${repo}`)
+
 let str = "  Hello JavaScript Developer, Welcome to JavaScript!  ";
 
 console.log("Length:- "+str.length)

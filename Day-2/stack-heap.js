@@ -1,4 +1,4 @@
-//stack
+//stack (primitive datatype)
 let name="Manthan";
 
 let name2=name;
@@ -9,7 +9,7 @@ console.log(name);
 console.log(name2);
 
 
-//heap
+//heap (Non-primitive datatype)
 
 let student=
 {
